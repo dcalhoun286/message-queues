@@ -1,0 +1,15 @@
+{
+  "name": "queue-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hub.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "author": "Dar-Ci Calhoun",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "socket.io": "^2.4.1"
+  }
+}
