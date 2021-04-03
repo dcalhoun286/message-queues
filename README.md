@@ -1,6 +1,9 @@
 # Message Queues
 
-- **CAPS Phase 2**: For this lab assignment, I built a system that uses [Socket.io](https://socket.io/) as a server that communicates with two client apps. [Check out Phase 1 by clicking on this link.](https://github.com/dcalhoun286/caps)
+- **CAPS Phase 3**: For this lab assignment, I built a system that uses [Socket.io](https://socket.io/) as a server that communicates with two client apps.
+- **Check out previous iterations of this assignment by clicking on the links below**:
+  - [Phase 1](https://github.com/dcalhoun286/caps)
+  - [Phase 2](https://github.com/dcalhoun286/caps-2)
 
 ## Author: Dar-Ci Calhoun
 
