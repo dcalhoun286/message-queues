@@ -4,7 +4,8 @@
   "description": "",
   "main": "driver.js",
   "scripts": {
-    "test": "jest --coverage --verbose"
+    "test": "jest --coverage --verbose",
+    "start": "nodemon driver.js"
   },
   "author": "Dar-Ci Calhoun",
   "license": "ISC",
