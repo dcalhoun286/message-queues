@@ -27,7 +27,7 @@
 1. Create the files and folders required for the application
 1. Create the correct content in the files
 1. Open three terminal windows either in your code editor to run your application.
-  1. In the 1st window, navigate to the `src` directory and run `node hub.js`
+  1. In the 1st window, navigate to the `queue-server` directory and run `node hub.js`
   1. In the 2nd window, navigate to the `driver` directory and run `node driver.js`
   1. In the 3rd window, navigate to the `vendor` directory and run `node vendor.js`
   1. At this point, you should now be able to see the server (`hub.js`) interacting with your client apps (`driver.js` and `vendor.js`)
