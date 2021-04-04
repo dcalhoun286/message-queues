@@ -4,6 +4,8 @@ require('dotenv').config();
 
 const PORT = process.env.PORT || 3333;
 
+console.log(PORT);
+
 const uuid = require('uuid').v4;
 const io = require('socket.io')(PORT);
 
