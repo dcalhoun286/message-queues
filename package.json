@@ -1,0 +1,22 @@
+{
+  "name": "message-queues",
+  "version": "1.0.0",
+  "description": "- **CAPS Phase 3**: For this lab assignment, I built a system that uses [Socket.io](https://socket.io/) as a server that communicates with two client apps. - **Check out previous iterations of this assignment by clicking on the links below**:   - [Phase 1](https://github.com/dcalhoun286/caps)   - [Phase 2](https://github.com/dcalhoun286/caps-2)",
+  "main": "",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcalhoun286/message-queues.git"
+  },
+  "author": "Dar-Ci Calhoun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcalhoun286/message-queues/issues"
+  },
+  "homepage": "https://github.com/dcalhoun286/message-queues#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}

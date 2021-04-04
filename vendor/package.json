@@ -1,0 +1,17 @@
+{
+  "name": "vendor-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vendor.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start": "nodemon vendor.js"
+  },
+  "author": "Dar-Ci Calhoun",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "faker": "^5.5.2",
+    "socket.io-client": "^2.4.0"
+  }
+}
